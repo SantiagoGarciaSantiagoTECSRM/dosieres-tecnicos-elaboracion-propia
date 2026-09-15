@@ -11,3 +11,36 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 
 
 <br>
+
+# DRP Microsoft Office 2007\_V3
+
+## 📝 Información del Documento
+
+*   **📂 Nombre del Dossier:** DRP Microsoft Office 2007\_V3
+*   **🐧 Sistema Operativo Base:** Linux Mint 22.2 (Wilma) — *& versiones superiores.*
+*   **✍️ Autor:** Santiago García Santiago
+*   **✅ Estado:** Completado / Técnico
+
+---
+
+
+
+
+<br>
+<hr>
+
+
+
+<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/main/README.md">[📂 Indice Contenidos]</a> | 
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;|Instalacion de Microsoft Office 2007 en Linux| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/Dossier-propio-01/DRP_Office_207_linux%5Bpost%5D_V3A_repositiorio.pdf">DRP Microsoft Office 2007\_V3</a>
+ 
+  </tr>
+  
+</table>
