@@ -12,7 +12,7 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 
 <br>
 
-# DRP Microsoft Office 2007\_V3
+---
 
 ## 📝 Información del Documento
 
@@ -21,14 +21,11 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 *   **✍️ Autor:** Santiago García Santiago
 *   **✅ Estado:** Completado / Técnico
 
----
-
-
+*|Descripcion:<br>
+*|Instalacion y configuracion de Office 2007 en GNU Linux Mint.
 
 
 <br>
-<hr>
-
 
 
 <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/main/README.md">[📂 Indice Contenidos]</a> | 
@@ -44,3 +41,4 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
   </tr>
   
 </table>
+<hr>
