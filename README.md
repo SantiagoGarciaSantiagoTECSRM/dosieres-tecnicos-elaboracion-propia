@@ -28,7 +28,7 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 <br>
 
 
-<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/Dossier-propio-01/README.md#Dosier_01">[📂 Indice Contenidos]</a> | 
+<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/tree/DRP-office-2007">[📂 Indice Contenidos]</a> | 
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
