@@ -4,6 +4,20 @@
 ># Ultima revisión: 15-09-2026
  
 
+<br>
+
+
+# DRP Microsoft Office 2007\_V3
+
+## 📝 Información del Documento
+
+*   **📂 Nombre del Dossier:** DRP Microsoft Office 2007\_V3
+*   **🐧 Sistema Operativo Base:** Linux Mint 22.2 (Wilma) — *& versiones superiores.*
+*   **✍️ Autor:** Santiago García Santiago
+*   **✅ Estado:** Completado / Técnico
+
+---
+
 
 
 
@@ -31,16 +45,6 @@
 
 <a name="Dosier_01">Indice contenidos:</a>
 
-# DRP Microsoft Office 2007\_V3
-
-## 📝 Información del Documento
-
-*   **📂 Nombre del Dossier:** DRP Microsoft Office 2007\_V3
-*   **🐧 Sistema Operativo Base:** Linux Mint 22.2 (Wilma) — *& versiones superiores.*
-*   **✍️ Autor:** Santiago García Santiago
-*   **✅ Estado:** Completado / Técnico
-
----
 
 ## 🔍 Índice del Contenido
 
