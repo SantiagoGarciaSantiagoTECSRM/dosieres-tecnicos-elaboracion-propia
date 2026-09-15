@@ -12,7 +12,8 @@
 
 
 
-[indice_contenidos](#año_01)
+[indice_contenidos](#Dosier_01)
+
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
     <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;|Instalacion de Microsoft Office 2007 en Linux| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
