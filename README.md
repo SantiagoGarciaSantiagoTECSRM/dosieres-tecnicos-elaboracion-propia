@@ -26,7 +26,7 @@
 
 
 
-<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/main/README.md">[📂 Indice Repositorio]</a> | [indice_contenidos](#Dosier_01) 
+<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/main/README.md">[📂 Indice Repositorio]</a> | [indice_contenidos](#Dosier_01)   (Enlace de descarga al comienzo de este documento)
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
