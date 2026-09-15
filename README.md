@@ -9,13 +9,13 @@
 
 <br>
 <hr>
-<br>
 
-# **Dosier 01:**
 
+
+[indice_contenidos](#año_01)
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;|Instalacion de Microsoft Office 2007 en Linux| [indice_contenidos](#año_01) &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;|Instalacion de Microsoft Office 2007 en Linux| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
@@ -24,18 +24,13 @@
   </tr>
   
 </table>
-<br>
+
 <hr>
 <br>
 
 <a name="Dosier_01">Indice contenidos:</a>
 
 # DRP Microsoft Office 2007\_V3
-
-![Entorno](https://shields.io)
-![Compatibilidad](https://shields.io)
-
-Dosier técnico detallado para el despliegue, configuración y optimización de entornos de productividad mediante capas de compatibilidad.
 
 ## 📝 Información del Documento
 
