@@ -90,7 +90,7 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 
 
 *|Descripcion:<br>
-*|Rescatado de un dominio actualmente inhabilitado. Re-maquete el documento
+*|Rescatado de un dominio actualmente inhabilitado. Re-maquete el documento<br>
 *|para que pudiera ser manejable en los navegadores/visores actuales (el original era solo para "impresión")
 
 <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/tree/manual-bash-linux/#dosier_03">[📂 Indice Contenidos]</a>|
