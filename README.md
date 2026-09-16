@@ -36,7 +36,7 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/Dossier-propio-01/DRP_Office_207_linux%5Bpost%5D_V3A_repositiorio.pdf">DRP Microsoft Office 2007\_V3</a>
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/Dossier-propio-01/DRP_Office_207_linux%5Bpost%5D_V3A_repositiorio.pdf">DRP Microsoft Office 2007\_V3.pdf</a>
  
   </tr>
   
