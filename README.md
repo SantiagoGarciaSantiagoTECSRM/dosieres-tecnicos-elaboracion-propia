@@ -50,7 +50,7 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 
 
 
-*   **📂 Nombre del Dossier:** RetroArch (Instalación y Configuración)
+*   **📚 Nombre del Dossier:** RetroArch (Instalación y Configuración)
 *   **🐧 Sistema Operativo Base:** Linux Mint 22.2 (Wilma) — *& versiones superiores.*
 *   **✍️ Autor:** Santiago García Santiago
 *   **✅ Estado:** Completado / Técnico
