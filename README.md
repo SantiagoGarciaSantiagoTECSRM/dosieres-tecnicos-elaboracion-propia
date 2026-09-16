@@ -93,7 +93,7 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 *|Rescatado de un dominio actualmente inhabilitado. Re-maquete el documento
 *|para que pudiera ser manejable en los navegadores/visores actuales (el original era solo para "impresión")
 
-<a href="/#dosier_03">[📂 Indice Contenidos]</a>|
+<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/tree/manual-bash-linux/#dosier_03">[📂 Indice Contenidos]</a>|
 
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
