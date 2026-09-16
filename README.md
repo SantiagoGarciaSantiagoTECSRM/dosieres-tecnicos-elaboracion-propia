@@ -98,11 +98,11 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;|Manual Bash Linux| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;|Manual Bash Linux| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</th> 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/manual-bash-linux/%5Bpost%5DManual_Bash_Linux_DX%5BRepositorio_def%5D.pdf">[post]Manual_Bash_Linux_DX[Repositorio_def].pdf</a> &emsp; &emsp; &emsp;
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/manual-bash-linux/%5Bpost%5DManual_Bash_Linux_DX%5BRepositorio_def%5D.pdf">[post]Manual_Bash_Linux_DX[Repositorio_def].pdf</a> 
  
   </tr>
   
