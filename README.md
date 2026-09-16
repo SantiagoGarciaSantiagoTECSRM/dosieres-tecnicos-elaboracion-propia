@@ -18,8 +18,8 @@
 
 
 *|Descripcion:<br>
-*|Rescatado de un dominio actualmente inhabilitado. Re-maquete el documento
-*|para que pudiera ser manejable en los navegadores/visores actuales 
+*|Rescatado de un dominio actualmente inhabilitado. Re-maquete el documento<br>
+*|para que pudiera ser manejable en los navegadores/visores actuales <br>
 *|(el original era solo para "impresión")
 
 ---
