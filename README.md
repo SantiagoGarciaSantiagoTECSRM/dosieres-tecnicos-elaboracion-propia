@@ -130,7 +130,7 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 
 <table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
   <tr>
-    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;|Instalacion de Retro_Arch en Linux| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;|Microsoft Windows - Reinstalación & Métodos Bypass| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
