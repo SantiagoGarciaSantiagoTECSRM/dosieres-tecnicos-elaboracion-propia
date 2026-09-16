@@ -108,12 +108,43 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
   
 </table>
 
-
-
-
+---
+<br>
 
 
 ---
+
+*   **📚 Nombre del Dossier:** Microsoft Windows - Reinstalación & Métodos Bypass
+*   **☣️ Sistema Operativo Base:** Microsoft Windows 10/11
+*   **✍️ Autor:** Santiago Garcia Santiago            
+*   **✅ Estado:** Completado / Técnico
+
+
+
+*|Descripción:<br>
+*|Dosier técnico con procedimientos detallados para la reinstalación / activación de sistemas Microsoft Windows <br>
+*|Incluye métodos Bypass. <br>
+
+<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/Restauracion-sistemas-windows/README.md/#dosier_04">[📂 Indice Contenidos]</a>|
+
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;|Instalacion de Retro_Arch en Linux| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/Restauracion-sistemas-windows/%5Bpost%5DRestauracion%20de%20sistemas%20windows_IDX_Repositorio.pdf">[post]Restauracion de sistemas windows_IDX_Repositorio.pdf</a>
+ 
+  </tr>
+  
+</table>
+
+
+---
+
+
+
 
 
 
