@@ -42,3 +42,7 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
   
 </table>
 <hr>
+<br>
+
+
+
