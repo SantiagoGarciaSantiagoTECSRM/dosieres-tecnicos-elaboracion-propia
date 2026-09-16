@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">[post]Restauracion de sistemas windows_IDX_Repositorio.pdf</a>
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/Restauracion-sistemas-windows/%5Bpost%5DRestauracion%20de%20sistemas%20windows_IDX_Repositorio.pdf">[post]Restauracion de sistemas windows_IDX_Repositorio.pdf</a>
  
   </tr>
   
