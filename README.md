@@ -102,7 +102,7 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/manual-bash-linux/%5Bpost%5DManual_Bash_Linux_DX%5BRepositorio_def%5D.pdf">[post]Manual_Bash_Linux_DX[Repositorio_def].pdf</a>
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/manual-bash-linux/%5Bpost%5DManual_Bash_Linux_DX%5BRepositorio_def%5D.pdf">[post]Manual_Bash_Linux_DX[Repositorio_def].pdf</a> &emsp; &emsp; &emsp;
  
   </tr>
   
