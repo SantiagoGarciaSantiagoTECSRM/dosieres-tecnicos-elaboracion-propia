@@ -44,5 +44,37 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 <hr>
 <br>
 
+<br>
 
+---
+
+
+
+*   **📂 Nombre del Dossier:** RetroArch (Instalación y Configuración)
+*   **🐧 Sistema Operativo Base:** Linux Mint 22.2 (Wilma) — *& versiones superiores.*
+*   **✍️ Autor:** Santiago García Santiago
+*   **✅ Estado:** Completado / Técnico
+
+*|Descripcion:<br>
+*|Instalacion y configuracion de Retro Arch en GNU Linux Mint.
+
+
+<br>
+
+
+<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/tree/DRP-retro-arch-instalacion-confg-linux/#dosier_02">[📂 Indice Contenidos]</a> | 
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;|Instalacion de Retro_Arch en Linux| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/DRP-retro-arch-instalacion-confg-linux/%5Bpost%5DConfiguracion_retroarch_Repositorio.pdf">[post]Configuracion_retroarch_Repositorio.pdf</a>
+ 
+  </tr>
+  
+</table>
+<hr>
+<br>
 
