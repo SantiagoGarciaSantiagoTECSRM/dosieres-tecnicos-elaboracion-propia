@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td style="border: 1px solid black; padding: 8px;">
-     <a href="">RetroArch_Instalacion_configuracion</a>
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/DRP-retro-arch-instalacion-confg-linux/%5Bpost%5DConfiguracion_retroarch_Repositorio.pdf">RetroArch_Instalacion_configuracion</a>
  
   </tr>
   
