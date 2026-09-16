@@ -78,3 +78,55 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 <hr>
 <br>
 
+
+---
+
+*   **📚 Nombre del Dossier:** Manual Bash Linux
+*   **🐧 Sistema Operativo Base:** Linux Mint 22.2
+*   **✍️ Autor:** Fernando López Hernández            
+*   **♻️ Re-maquetado:** Santiago Garcia Santiago
+*   **✅ Estado:** Completado / Técnico
+
+
+
+*|Descripcion:<br>
+*|Rescatado de un dominio actualmente inhabilitado. Re-maquete el documento
+*|para que pudiera ser manejable en los navegadores/visores actuales (el original era solo para "impresión")
+
+<a href="/#dosier_03">[📂 Indice Contenidos]</a>|
+
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;|Manual Bash Linux| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/manual-bash-linux/%5Bpost%5DManual_Bash_Linux_DX%5BRepositorio_def%5D.pdf">[post]Manual_Bash_Linux_DX[Repositorio_def].pdf</a>
+ 
+  </tr>
+  
+</table>
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
