@@ -11,7 +11,7 @@
 
 ## 📝 Información del Documento
 
-*   **📂 Nombre del Dossier:** DRP Microsoft Office 2007\_V3
+*   **📚 Nombre del Dossier:** DRP Microsoft Office 2007\_V3
 *   **🐧 Sistema Operativo Base:** Linux Mint 22.2 (Wilma) — *& versiones superiores.*
 *   **✍️ Autor:** Santiago García Santiago
 *   **✅ Estado:** Completado / Técnico
