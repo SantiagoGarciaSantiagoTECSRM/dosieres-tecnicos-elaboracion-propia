@@ -12,6 +12,43 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 
 <br>
 
+
+
+---
+
+*   **📚 Nombre del Dossier:** [Despliegue de Sistemas Linux] (introducción)
+*   **🐧 Sistema Operativo Base:** Linux Mint 22.2
+*   **✍️ Autor:** Santiago Garcia Santiago            
+*   **✅ Estado:** Completado / Técnico
+
+
+
+*|Descripción:<br>
+*|Dosier técnico con procedimientos detallados para la preparación, instalación y mantenimiento de <br>
+*|sistemas GNU Linux de ámbito domestico. Contiene información detallada desde el particionado, <br>
+*|procedimientos críticos (reparación de [GRUB] y drivers Nvidia conflictivos) hasta el gaming funcional.<br>
+
+
+<a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/despliegue-sistemas-linux/README.md/#dosier_05">[📂 indice_contenidos]</a> 
+
+
+
+<table style="margin: 0 auto; width: 50%; border-collapse: collapse; align:center;"">
+  <tr>
+    <th style="border: 1px solid black; padding: 8px;">  &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp;&emsp;|Despliegue de Sistemas Linux - Distros domesticas | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp; &emsp; &emsp; </th> 
+  </tr>
+  <tr>
+    <td style="border: 1px solid black; padding: 8px;">
+     <a href="https://github.com/SantiagoGarciaSantiagoTECSRM/dosieres-tecnicos-elaboracion-propia/blob/despliegue-sistemas-linux/%5Bpost%5DDespliegue_linux_idx_repositorio.pdf">[post]Despliegue_linux_idx_repositorio.pdf</a>
+ 
+  </tr>
+  
+</table>
+<hr>
+<br>
+
+---
+
 ---
 
 
