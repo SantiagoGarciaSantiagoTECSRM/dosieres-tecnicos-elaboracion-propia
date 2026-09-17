@@ -133,7 +133,7 @@
 * |Escenario 05|  [Configuración Moderna HDD x 1   SSD x 2]
 
 <hr>
-**Escenario optimo: [Escenario 04, ssd: particion EFI + root, HDD:/home]**
+Escenario optimo: [Escenario 04, ssd: particion EFI + root, HDD:/home]
 <hr>
 
 ### 📑 05  Laboratorio practico 
