@@ -1,7 +1,7 @@
 >[!WARNING]
 >-EN ELABORACION ESTE REPOSITORIO AUN NO ESTA TERMINADO-<br>
 >El dosier de [Manual de procedimientos], nunca esta terminado del todo, se revisa y amplia periodicamente.   
-># Ultima revisión: 15-09-2026
+># Ultima revisión: 17-09-2026
  
 # **Dosieres técnicos de elaboración propia**
 
