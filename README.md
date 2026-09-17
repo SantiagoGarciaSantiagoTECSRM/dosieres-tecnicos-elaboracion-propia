@@ -17,7 +17,7 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 ---
 
 *   **📚 Nombre del Dossier:** [Despliegue de Sistemas Linux] (introducción)
-*   **🐧 Sistema Operativo Base:** Linux Mint 22.2
+*   **🐧 Sistema Operativo Base:** Linux Mint 22.2 — *& versiones superiores.*
 *   **✍️ Autor:** Santiago Garcia Santiago            
 *   **✅ Estado:** Completado / Técnico
 
@@ -119,7 +119,7 @@ Dada las características del GNU Linux, los procedimientos y recursos aquí con
 ---
 
 *   **📚 Nombre del Dossier:** Manual Bash Linux
-*   **🐧 Sistema Operativo Base:** Linux Mint 22.2
+*   **🐧 Sistema Operativo Base:** Linux Mint 22.2 — *& versiones superiores.*
 *   **✍️ Autor:** Fernando López Hernández            
 *   **♻️ Re-maquetado:** Santiago Garcia Santiago
 *   **✅ Estado:** Completado / Técnico
